@@ -1,0 +1,42 @@
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\SHENii Bot Template.exe
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\SHENii Bot Template.deps.json
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\SHENii Bot Template.runtimeconfig.json
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\SHENii Bot Template.runtimeconfig.dev.json
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\SHENii Bot Template.dll
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\ref\SHENii Bot Template.dll
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\SHENii Bot Template.pdb
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\obj\Debug\net5.0\SHENii Bot Template.csproj.AssemblyReference.cache
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\obj\Debug\net5.0\SHENii Bot Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\obj\Debug\net5.0\SHENii Bot Template.AssemblyInfoInputs.cache
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\obj\Debug\net5.0\SHENii Bot Template.AssemblyInfo.cs
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\obj\Debug\net5.0\SHENii Bot Template.csproj.CoreCompileInputs.cache
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\obj\Debug\net5.0\SHENii Bot Template.dll
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\obj\Debug\net5.0\ref\SHENii Bot Template.dll
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\obj\Debug\net5.0\SHENii Bot Template.pdb
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\obj\Debug\net5.0\SHENii Bot Template.genruntimeconfig.cache
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\Discord.KillersLibrary.Labs.dll
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\Discord.Net.Commands.dll
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\Discord.Net.Core.dll
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\Discord.Net.Rest.dll
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\Discord.Net.Webhook.dll
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\Discord.Net.WebSocket.dll
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\DnsClient.dll
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\Fergun.Interactive.Labs.dll
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\System.Interactive.Async.dll
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\System.Linq.Async.dll
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\shenc\source\repos\SHENii Bot Template\SHENii Bot Template\obj\Debug\net5.0\SHENii Bot Template.csproj.CopyComplete
